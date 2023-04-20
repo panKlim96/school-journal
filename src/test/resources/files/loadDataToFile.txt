@@ -1,0 +1,1 @@
+{"firstname":"Kirill","surname":"Vyacheslavovich","lastname":"Faizov","subjectsMarks":[{"mark":3,"subjectName":"Russian"},{"mark":4,"subjectName":"Mathematics"},{"mark":5,"subjectName":"Chemistry"},{"mark":5,"subjectName":"Biology"}]}

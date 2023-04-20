@@ -1,0 +1,3 @@
+Faizov Kirill Vyacheslavovich
+3 4 5 5
+src/test/resources/files/loadDataToFile.txt
